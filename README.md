@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alekeyy
-- 👀 I’m interested in computer science, web development, games development, philosophy and sports!
-- 🌱 I’m currently learning C++, Python, HTML, CSS, JS, SQL
-- 💞️ I’m looking to collaborate on .
+- 👀 I’m interested in computer science, web development, games development and sports!
+- 🌱 I’m currently learning C++, C#, HTML/CSS/JS
 - 📫 How to reach me ...
+- IG: AlekeyTech
 
 <!---
 alekeyy/alekeyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

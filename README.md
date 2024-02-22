@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer science, web development, games development and sports!
 - 🌱 I’m currently learning C++, C#, HTML/CSS/JS
 - 📫 How to reach me ...
-- IG: AlekeyTech
 
 <!---
 alekeyy/alekeyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
